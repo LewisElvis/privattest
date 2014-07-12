@@ -1,5 +1,5 @@
 body {
-  background: #eee;
+  background: #678;
   color: #333;
   font-family: 'PT Sans',sans-serif;
   font-size: 22px;
@@ -11,6 +11,7 @@ header, main {
 }
 article {
   margin: 2em 0;
+  background: #ccc;
 }
 code {
   white-space: nowrap;

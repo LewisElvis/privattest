@@ -1,0 +1,25 @@
+body {
+  background: #eee;
+  color: #333;
+  font-family: 'PT Sans',sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+}
+header, main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+article {
+  margin: 2em 0;
+}
+code {
+  white-space: nowrap;
+}
+code, pre {
+  font-family: monospace;
+  background: #f9f9f9;
+  box-shadow: 0 0 2px #ccc;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
